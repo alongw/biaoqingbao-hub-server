@@ -1,0 +1,12 @@
+{
+  "name": "biaoqingbao-hub-server",
+  "version": "1.0.0",
+  "main": "app.ts",
+  "repository": "https://github.com/alongw/biaoqingbao-hub-server.git",
+  "author": "alongw <alongw@alongw.cn>",
+  "license": "MIT",
+  "dependencies": {
+    "ts-node": "^10.9.1",
+    "typescript": "^5.1.3"
+  }
+}
