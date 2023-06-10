@@ -1,1 +1,3 @@
 node_modules
+/images/*
+!/images/将图片放在此处
